@@ -1,6 +1,6 @@
 package com.anels.premier_league.repositories;
 
-import com.anels.premier_league.player.Player;
+import com.anels.premier_league.domain.entities.Player;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

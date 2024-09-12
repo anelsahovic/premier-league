@@ -1,6 +1,6 @@
 package com.anels.premier_league.services;
 
-import com.anels.premier_league.player.Player;
+import com.anels.premier_league.domain.entities.Player;
 import com.anels.premier_league.repositories.PlayerRepository;
 import jakarta.transaction.Transactional;
 import org.springframework.stereotype.Service;

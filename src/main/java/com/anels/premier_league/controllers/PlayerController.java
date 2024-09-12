@@ -1,8 +1,7 @@
 package com.anels.premier_league.controllers;
 
-import com.anels.premier_league.player.Player;
+import com.anels.premier_league.domain.entities.Player;
 import com.anels.premier_league.services.PlayerService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

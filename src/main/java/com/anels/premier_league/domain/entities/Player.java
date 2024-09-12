@@ -1,4 +1,4 @@
-package com.anels.premier_league.player;
+package com.anels.premier_league.domain.entities;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
